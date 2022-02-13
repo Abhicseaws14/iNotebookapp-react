@@ -1,6 +1,6 @@
 {
   "name": "inotebook-backend",
-  "https://Abhicseaws14.github.io/iNotebookapp-react",
+   "homepage": "https://Abhicseaws14.github.io/iNotebookapp-react",
   "version": "1.0.0",
   "description": "iNotebook - Your notebook on the cloud",
   "main": "index.js",
